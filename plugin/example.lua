@@ -1,1 +1,1 @@
-print("Hello worldioi")
+print("plugin/example.lua is working!")
