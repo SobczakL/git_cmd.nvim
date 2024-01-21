@@ -1,2 +1,2 @@
 # git_cmd.nvim
-git commands but better
+git commands that are better and easily accessible.
